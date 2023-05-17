@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT"
+
+[[mods]]
+modId="arboria"
+version="1.0.0"
+displayName="Arboria"
+credits="Datapack was created by Sunna mod driven version was packed and made by Y3Z0N"
+displayURL="https://modrinth.com/datapack/arboria/version/1.0.1"
+authors="Sunna, Y3Z0N"
+description='''
+Arboria is a world generation datapack that improves most vanilla overworld biomes. The datapack's goal is to aesthetically overhaul the world without changing the progression too much.
+'''
+
+[[dependencies.arboria]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
